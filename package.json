@@ -1,0 +1,23 @@
+{
+    "name": "nodejs-server-0901",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/div-anh0901/nodejs-server-0901.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/div-anh0901/nodejs-server-0901/issues"
+    },
+    "homepage": "https://github.com/div-anh0901/nodejs-server-0901#readme",
+    "dependencies": {
+        "express": "^4.17.1",
+        "nodemon": "^2.0.15"
+    }
+}
